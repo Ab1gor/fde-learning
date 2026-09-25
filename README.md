@@ -1,4 +1,4 @@
-# LiveKit FDE Practice — Exercise 1
+
 
 ## Customer report
 
